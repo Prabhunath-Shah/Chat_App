@@ -4,6 +4,10 @@
 
 Welcome to **NeuralDeep AI**, your intelligent companion for real-time conversations and document analysis. This minimalist, single-page chatbot application empowers you to interact with an advanced AI model and gain insights from your PDF documents effortlessly. Designed for clarity and efficiency, NeuralDeep AI provides a seamless and context-aware conversational experience.
 
+## 🌐 Live Demo
+
+🔗 **Visit the App**: [https://neuraldeep.vercel.app/](https://neuraldeep.vercel.app/)
+
 ## ✨ Key Features
 
 NeuralDeep AI is built to be intuitive and powerful, offering a range of features to enhance your interaction:
