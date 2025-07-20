@@ -64,28 +64,28 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the Repository**:
     First, get a copy of the project's source code.
-    \`\`\`bash
+    ```bash
     git clone https://github.com/your-username/neuraldeep-ai.git
     cd neuraldeep-ai
-    \`\`\`
+    ```
     *(Remember to replace `your-username/neuraldeep-ai.git` with your actual repository URL if you've forked it.)*
 
 2.  **Install Dependencies**:
     Navigate to the project root and install all required packages.
     Using **pnpm** (recommended):
-    \`\`\`bash
+    ```bash
     pnpm install
-    \`\`\`
+    ```
     Or using **npm**:
-    \`\`\`bash
+    ```bash
     npm install
-    \`\`\`
+    ```
 
 3.  **Configure Environment Variables**:
     Create a file named `.env.local` in the root directory of your project. This file will store your sensitive API key.
-    \`\`\`
+    ```
     GOOGLE_GENERATIVE_AI_API_KEY=your_google_gemini_api_key_here
-    \`\`\`
+    ```
     **Important**: Replace `your_google_gemini_api_key_here` with the actual API key you obtained from Google AI Studio. This key is crucial for the AI functionality.
 
 4.  **Prepare PDF.js Worker File**:
@@ -98,11 +98,11 @@ Before you begin, ensure you have the following installed:
 
 Once all prerequisites are met and files are in place, you can start the development server:
 
-\`\`\`bash
+```bash
 pnpm run dev
 # or
 npm run dev
-\`\`\`
+```
 
 The application will typically become accessible at `http://localhost:3000` in your web browser. Any changes you make to the code will trigger a hot reload, allowing for rapid development.
 
@@ -110,7 +110,7 @@ The application will typically become accessible at `http://localhost:3000` in y
 
 Understanding the project's layout can help you navigate and contribute effectively:
 
-\`\`\`
+```
 src/
 ├── app/
 │   ├── api/
@@ -140,7 +140,7 @@ src/
 ├── tailwind.config.ts             # Tailwind CSS configuration file.
 ├── postcss.config.js              # PostCSS configuration for Tailwind CSS.
 └── tsconfig.json                  # TypeScript compiler configuration.
-\`\`\`
+```
 
 ## 🛣️ Future Enhancements
 
