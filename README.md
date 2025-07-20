@@ -6,7 +6,7 @@ Welcome to **NeuralDeep AI**, your intelligent companion for real-time conversat
 
 ## 🌐 Live Demo
 
-🔗 **Visit the App**: [https://neuraldeep.vercel.app/](https://neuraldeep.vercel.app/)
+🔗 **Visit the App**: [https://neuraldeep.vercel.app/](https://deepneural.vercel.app/)
 
 ## ✨ Key Features
 
