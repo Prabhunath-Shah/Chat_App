@@ -175,9 +175,3 @@ Contributions are highly welcome! If you have ideas, bug reports, or wish to con
 
 This project is open-source and licensed under the [MIT License](LICENSE).
 
-## ✉️ Contact
-
-For any questions, feedback, or support, please feel free to reach out:
-
-*   **Your Name/Handle**: [Your GitHub Profile/Email]
-*   **Project Repository**: [https://github.com/your-username/neuraldeep-ai](https://github.com/your-username/neuraldeep-ai) (Please update this link to your actual repository URL)
